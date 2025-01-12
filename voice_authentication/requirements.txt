@@ -1,4 +1,0 @@
-
-sounddevice
-librosa
-scikit-learn
